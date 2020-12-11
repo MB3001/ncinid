@@ -2,7 +2,7 @@ Normas de la Comunidad:
 
 De El Investigador de las Ideas.
 (https://investigadorid.wordpress.com/).
-Versión 1.0.
+Versión 1.1.
 
 Finalidad:
 
@@ -23,11 +23,11 @@ notación "N. (cuerpo de la norma)", donde N es un número
 entero mayor o igual a 0.
 Para mencionar normas, use la notación "ncinid..(números 
 identificadores de las normas a mencionar separadas por 
-comas; para mencionar una subnorma de una norma se escribe 
-el número de la norma, luego un punto y luego el número de 
-la subnorma)". "ncinid" es el nombre identificador de las 
-"Normas de la Comunidad (de El Investigador de las Ideas)".
-Ejemplo: ncinid..2.5,4.1,9.
+comas; para mencionar una subnorma dentro de una norma o 
+subnorma se escribe el número de la norma, luego un punto y 
+luego el número de la subnorma)". "ncinid" es el nombre 
+identificador de las "Normas de la Comunidad (de El 
+Investigador de las Ideas)". Ejemplo: ncinid..2.5,4.1.5,9.
 
 Recomendaciones:
 
