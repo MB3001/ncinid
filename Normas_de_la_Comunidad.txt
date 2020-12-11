@@ -1,0 +1,150 @@
+Normas de la Comunidad:
+
+De El Investigador de las Ideas.
+(https://investigadorid.wordpress.com/).
+Versión 1.0.
+
+Finalidad:
+
+Fijar normas opcionales de seguir para llevar a cabo un 
+debate constructivo y sin violencias innecesarias a los 
+individuos, en especial si son especialmente sensibles 
+a dichas violencias.
+La libertad de expresión es fundamental, pero en caso de que 
+un individuo cause un daño o acoso que provoque un 
+sufrimiento duradero o muy significativo, se procederá a la 
+censura total o parcial, temporal o permanente de dicho 
+individuo.
+
+Metodología:
+
+Las normas se enumerarán de menor a mayor siguiendo la 
+notación "N. (cuerpo de la norma)", donde N es un número 
+entero mayor o igual a 0.
+Para mencionar normas, use la notación "ncinid..(números 
+identificadores de las normas a mencionar separadas por 
+comas; para mencionar una subnorma de una norma se escribe 
+el número de la norma, luego un punto y luego el número de 
+la subnorma)". "ncinid" es el nombre identificador de las 
+"Normas de la Comunidad (de El Investigador de las Ideas)".
+Ejemplo: ncinid..2.5,4.1,9.
+
+Recomendaciones:
+
+0. Dé por sentado que quienes participan escriben de buena 
+fe, aun cuando no esté de acuerdo con lo que dicen. Si 
+alguien presenta código o texto como propio, acéptelo como 
+tal. No critique a las personas por errores que usted 
+simplemente supone hayan podido cometer, aténgase a lo que 
+realmente dicen y hacen.
+
+1. Busque la manera de tratar a los demás participantes con 
+respeto, especialmente cuando no comparta sus puntos de 
+vista. Por ejemplo, llamándolos por los nombres que han 
+elegido y respetando sus preferencias relativas a la 
+identidad de género.
+
+2. Evite emplear un tono áspero cuando se comunique con los 
+demás participantes. En particular, evite los ataques 
+personales. Haga todo lo posible por dejar claro que está 
+criticando un punto de vista, no a la persona.
+
+3. No tome las críticas a sus opiniones como ataques 
+personales. Si siente que alguien lo ha atacado u ofendido, 
+no responda con un contraataque, pues eso tiende a 
+desencadenar una escalada de agresiones verbales cada vez 
+más duras. Para calmar los ánimos, es preferible enviar una 
+cortés respuesta privada expresando sus sentimientos y 
+reconociéndolos como tales, y tratar de hacer las paces. 
+Escriba el mensaje, déjelo de lado durante algunas horas o 
+un día, revíselo para eliminar todo vestigio de ira y, 
+solo después, envíelo.
+
+4. Evite hacer comentarios sobre las supuestas aspiraciones,
+capacidades o acciones de algún sector demográfico a menos 
+que de verdad tenga datos que apoyen su postura, presentando
+fuentes y siguiendo el método científico. Si están 
+presentes quienes pertenecen a ese grupo pueden percibirlo 
+como una ofensa.
+
+5. Preste especial atención cuando tenga que señalar un 
+error, hágalo con amabilidad. Los debatidores y 
+programadores escrupulosos cometen errores y luego los 
+corrigen. Conviene mostrar a los contribuyentes que la 
+imperfección es normal, que no los culpamos por ello y que 
+valoramos sus contribuciones imperfectas, aunque esperamos 
+que estén dispuestos a corregirlas. Si se topa con alguien 
+con una postura conflictiva con la suya, recuerde no 
+acosarla, pues ello no ayudará a relajar su apego a dicha 
+postura sinó que lo reforzará.
+
+6. Responda a lo que las personas realmente han dicho, sin 
+exagerar sus puntos de vista. Su crítica no será 
+constructiva a menos que esté dirigida a lo que la gente 
+piensa realmente.
+
+7. Si durante una discusión alguien se desvía del tema, 
+trate de retomar el hilo centrándose en la cuestión 
+principal en lugar de la digresión. Esto no quiere decir que
+la digresión tenga nada de malo o carezca de interés como 
+tema de conversación, solo que no debe interferir con el 
+asunto que se está tratando. 
+Además, estas digresiones casi nunca vienen al caso, de modo
+que quienes estén interesados deberán conversar en otra 
+parte. Si usted cree que la digresión es una cuestión 
+importante que merece ser tratada, inicie una nueva 
+discusión por separado poniendo un título pertinente en el 
+campo «Asunto», y tal vez espere hasta que la conversación 
+en curso haya terminado.
+
+8. En lugar de tratar de tener la última palabra, piense que
+quizá no haya necesidad de reponder, tal vez porque su 
+postura ya haya quedado lo bastante clara. Si sabe algo del 
+Go, la siguiente analogía puede ser útil para ilustrar la 
+idea: cuando la jugada del adversario no tiene suficiente 
+peso como para exigir una respuesta directa, es mejor no 
+responder y moverse hacia otra zona del tablero.
+
+9. No defienda hasta el cansancio su planteamiento preferido
+cuando ya se haya tomado una decisión en favor de otro 
+distinto, pues eso tiende a bloquear el avance del trabajo.
+
+10. Si otras personas lo han molestado, quizás al desatender
+estas recomendaciones, no las fustigue, y en especial no 
+les guarde rencor. Actuar de manera constructiva consiste en
+animar y ayudar a los demás a mejorar. Cuando vea que están
+tratando de aprender y mejorar, deles siempre otra 
+oportunidad.
+
+11. Si los demás participantes se quejan de la forma en que 
+usted expresa sus ideas, haga un esfuerzo por amoldarse. Es 
+posible expresar las mismas ideas de modo tal que los demás 
+no se sientan incómodos. Será más fácil convercerlos si no 
+provoca enojo por cuestiones secundarias.
+
+12. Si usted cree que un individuo es excesivamente 
+resentido como para salir de su punto de vista (a nivel 
+biológico esta gente suele tener una amígdala más grande), 
+muéstrele de buen modo sus preocupaciones que le llevan a 
+diferir y cómo es un punto de vista ajeno más genérico y sin
+tantas preocupaciones como las que él tiene ahora.
+
+Si hacemos el esfuerzo de seguir estas recomendaciones, 
+obtendremos más contribuciones a nuestros proyectos, 
+nuestras conversaciones serán más afables y resultará más 
+fácil llegar a conclusiones. Es posible proponer cambios a 
+estas normas desde la sección de comentarios.
+
+Copyright:
+
+El texto de "Normas de la Comunidad" de El Investigador de 
+las Ideas es una versión modificada de "Recomendaciones de 
+GNU para una comuniación cordial" 
+(https://www.gnu.org/philosophy/kind-communication.es.html).
+
+Licencia de dicho texto: GPLv3 
+(https://www.gnu.org/licenses/gpl-3.0.en.html).
+© Free Software Foundation, Inc (https://www.fsf.org/).
+© El Investigador de las Ideas 
+(https://investigadorid.wordpress.com/).
+Año 2020.
