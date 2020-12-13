@@ -2,15 +2,15 @@ Normas de la Comunidad:
 
 De El Investigador de las Ideas.
 (https://investigadorid.wordpress.com/).
-Versión 1.1.
+Versión 1.2.
 
 Finalidad:
 
-Fijar normas opcionales de seguir para llevar a cabo un 
+Fijar normas recomendables de seguir para llevar a cabo un 
 debate constructivo y sin violencias innecesarias a los 
 individuos, en especial si son especialmente sensibles 
 a dichas violencias.
-La libertad de expresión es fundamental, pero en caso de que 
+La libertad de expresión es fundamental, pero en caso de que
 un individuo cause un daño o acoso que provoque un 
 sufrimiento duradero o muy significativo, se procederá a la 
 censura total o parcial, temporal o permanente de dicho 
@@ -23,13 +23,21 @@ notación "N. (cuerpo de la norma)", donde N es un número
 entero mayor o igual a 0.
 Para mencionar normas, use la notación "ncinid..(números 
 identificadores de las normas a mencionar separadas por 
-comas; para mencionar una subnorma dentro de una norma o 
-subnorma se escribe el número de la norma, luego un punto y 
-luego el número de la subnorma)". "ncinid" es el nombre 
-identificador de las "Normas de la Comunidad (de El 
-Investigador de las Ideas)". Ejemplo: ncinid..2.5,4.1.5,9.
+comas y ordenadas de menor a mayor; para mencionar una 
+subnorma dentro de una norma o subnorma se escribe el número
+de la norma, luego un punto y luego el número de la 
+subnorma)". "ncinid" es el nombre identificador de las 
+"Normas de la Comunidad (de El Investigador de las Ideas)". 
+Para mencionar la Finalidad se usa "ncinid.fin" y para la 
+Metodología "ncinid.met". Ejemplo: ncinid..fin,2.5,4.1.5,9.
+En caso de que un individuo crea que otro infringió una 
+norma de forma significativa se lo hace notar de forma 
+pública donde sea o de forma privada como mensaje de Twitter
+a "https://twitter.com/InvestigadorId".
+Por cuestiones de gusto y comodidad se sigue escribiendo en 
+un nuevo renglón cada vez que se llega a la columna 61.
 
-Recomendaciones:
+Normas:
 
 0. Dé por sentado que quienes participan escriben de buena 
 fe, aun cuando no esté de acuerdo con lo que dicen. Si 
